@@ -14,4 +14,8 @@ saat game dimulai, burung diam di tengah layar sampai pemain menekan tombol SPAC
 
 Dokumentasi:
 
+![flappyBird](dokumentasi/Screenshot1942.png)
+![flappyBird](dokumentasi/Screenshot1943.png)
+![flappyBird](dokumentasi/Screenshot1944.png)
+![flappyBird](dokumentasi/Screenshot1945.png)
 
