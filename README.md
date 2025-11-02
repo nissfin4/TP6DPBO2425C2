@@ -11,6 +11,8 @@ Objek burung direpresentasikan sebagai Player yang menyimpan posisi, ukuran, gam
 Alur game berjalan seperti ini: 
 saat game dimulai, burung diam di tengah layar sampai pemain menekan tombol SPACE. Setelah SPACE ditekan, game mulai bergerak dan burung akan naik-turun karena efek gravitasi. Pipa muncul setiap beberapa detik lalu bergerak ke kiri. Pemain harus melewati celah pipa. Skor bertambah setiap kali burung melewati pipa bawah. Game akan berhenti (Game Over) jika burung menyentuh pipa atau jatuh ke bawah layar. Setelah Game Over, teks “GAME OVER” akan tampil di dalam game,  dan pemain dapat menekan tombol R untuk restart agar permainan kembali dari awal dan dapat menekan esc untuk kembali ke menu.
 
+video youtube:
+[![Video Demo](https://img.youtube.com/vi/gBrQU6c2V8M/0.jpg)](https://youtu.be/gBrQU6c2V8M?si=DF-opytHMInNmIo8)
 
 Dokumentasi:
 
